@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\шаблоны\шаблоны\bin\Debug\шаблоны.exe.config
+C:\Users\sasha\source\repos\шаблоны\шаблоны\bin\Debug\шаблоны.exe
+C:\Users\sasha\source\repos\шаблоны\шаблоны\bin\Debug\шаблоны.pdb
+C:\Users\sasha\source\repos\шаблоны\шаблоны\obj\Debug\шаблоны.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\шаблоны\шаблоны\obj\Debug\шаблоны.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\шаблоны\шаблоны\obj\Debug\шаблоны.exe
+C:\Users\sasha\source\repos\шаблоны\шаблоны\obj\Debug\шаблоны.pdb
